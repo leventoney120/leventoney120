@@ -2,12 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/leventoney"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:leventtoney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
-
-[LinkedIn](https://www.linkedin.com/in/leventoney/) | [E-mail](leventtoney@gmail.com) | `+90 544 209 0439`
----
+  <a href="mailto:leventtoney@gmail.com"><img src="https://img.shields.io/badge/Email-leventtoney%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
