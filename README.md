@@ -3,13 +3,13 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/leventoney"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:leventtoney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+905442090439"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Phone-%2B90%20544%20209%200439-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ---
 
 ### 🎯 Professional Vision
-Infrastructure is not just a place where code runs; it's a living ecosystem. I specialize in building **high-performance, self-healing, and secure cloud environments**. My expertise lies in bridging the gap between development and operations through extreme automation and proactive monitoring.
+Infrastructure is not just a place where code runs; it's a living ecosystem. I specialize in building **high-performance, self-healing, and secure cloud environments**. Most of my contributions happen within **private enterprise organizations**, where I architect end-to-end automation and scalable cloud native systems.
 
 ---
 
@@ -23,27 +23,24 @@ Infrastructure is not just a place where code runs; it's a living ecosystem. I s
 
 ---
 
-### 🛠️ Battle-Tested Solutions
-* **Scalable Real-Time Communication:** Architected and deployed production-ready WebRTC infrastructures using **LiveKit** and **Stunner** on Kubernetes.
-* **Infrastructure as Code (IaC):** Designed multi-region, multi-account **Terraform** modules to ensure 99.9% uptime and rapid disaster recovery.
-* **Zero-Trust Security:** Automated secret management with **HashiCorp Vault** across dynamic Kubernetes namespaces.
-* **Database Reliability:** Implemented high-availability database clusters using **CloudNativePG (CNPG)** and managed complex **MongoDB/RDS** backup/restore cycles.
-* **Advanced CI/CD:** Engineered end-to-end GitOps workflows that reduce deployment lead time and enforce container security at every stage.
+### 🛠️ High-Impact Solutions (Battle-Tested)
+* **Real-Time Scalability:** Architected WebRTC clusters using **LiveKit & Stunner** on Kubernetes for high-traffic voice rooms.
+* **Database Modernization:** Migrated legacy database structures to **CloudNativePG (CNPG)** and managed complex **MongoDB** sharding/backup logic.
+* **Infrastructure as Code:** Developed modular **Terraform** libraries for multi-region disaster recovery (Standby) and cross-account AWS management.
+* **Security Orchestration:** Automated **HashiCorp Vault** identity-based secrets management across 10+ dynamic Kubernetes namespaces.
+* **Enterprise CI/CD:** Engineered GitOps-driven deployment cycles that enforce **Trivy** scanning and **SonarQube** analysis at every commit.
 
 ---
 
-### 📊 Engineering Metrics
+### 🧰 Most Used Tools in Production
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leventoney120&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leventoney120&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,jenkins,githubactions,ansible,prometheus,grafana,mongodb,mysql,linux,py,bash" />
 </p>
 
 ---
 
-### 📂 Featured Infrastructure Repositories
-* [**K8s-Hardening:**](https://github.com/leventoney120) Security-first Kubernetes cluster configuration.
-* [**Terraform-Global-Module:**](https://github.com/leventoney120) Reusable AWS modules for multi-region setups.
-* [**GitOps-Boilerplate:**](https://github.com/leventoney120) Ready-to-go ArgoCD and Helm structure.
+### 🌟 Enterprise Experience Summary
+> "While my public contribution graph may look quiet, my private production environments handle thousands of requests per second. I thrive in automating the un-automatable and securing the complex."
 
 ---
 
