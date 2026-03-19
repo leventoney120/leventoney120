@@ -6,7 +6,7 @@
   <a href="tel:+905442090439"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-`(https://www.linkedin.com/in/leventoney/)` | `leventtoney@gmail.com` | `+90 544 209 0439`
+`☝🏻` | `☝🏻 leventtoney@gmail.com` | `☝🏻 +90 544 209 0439`
 
 ---
 
