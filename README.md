@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/leventoney"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:leventtoney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Phone-%2B90%20544%20209%200439-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="tel:+905442090439"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 `leventtoney@gmail.com` | `+90 544 209 0439`
