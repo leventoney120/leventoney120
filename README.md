@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Phone-%2B90%20544%20209%200439-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
+`leventtoney@gmail.com` | `+90 544 209 0439`
+
 ---
 
 ### 🎯 Professional Vision
@@ -17,10 +19,9 @@ Infrastructure is not just a place where code runs; it's a living ecosystem. I s
 
 | **Core Infrastructure** | **Observability & Security** | **Database & Middleware** |
 | :--- | :--- | :--- |
-| 🚢 **K8s Ecosystem:** EKS, Helm, Stunner, LiveKit | 📊 **Monitoring:** ELK Stack, Prometheus, Grafana | 💾 **SQL/NoSQL:** MongoDB, CNPG, RDS, MySQL |
-| 📜 **IaC:** Terraform, Terragrunt, CloudFormation | 🛡️ **Security:** HashiCorp Vault, Trivy, SonarQube | 📨 **Messaging:** RabbitMQ, Redis, Kafka |
-| 🔄 **CI/CD:** ArgoCD (GitOps), Jenkins, GH Actions | 🌐 **Networking:** Route53, VPC, Load Balancers | 🚀 **Server:** Nginx, Traefik, Node.js |
-
+| 🚢 **K8s Ecosystem:** EKS, Helm, **LiveKit**, **Coturn**, **Stunner** | 📊 **Monitoring:** ELK Stack, Prometheus, Grafana | 💾 **SQL/NoSQL:** MongoDB, CNPG (Postgres), RDS, MySQL |
+| 📜 **IaC:** Terraform, Ansible, CloudFormation | 🛡️ **Security:** HashiCorp Vault, Trivy, SonarQube | 📨 **Messaging:** RabbitMQ, Redis, Kafka |
+| 🔄 **CI/CD:** ArgoCD (GitOps), Jenkins, GH Actions | 🌐 **Networking:** **Nginx**, **Traefik**, Route53, VPC, LBs | 🚀 **Server & Apps:** Node.js, Python, Java |
 ---
 
 ### 🛠️ High-Impact Solutions (Battle-Tested)
@@ -34,8 +35,14 @@ Infrastructure is not just a place where code runs; it's a living ecosystem. I s
 
 ### 🧰 Most Used Tools in Production
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,jenkins,githubactions,ansible,prometheus,grafana,mongodb,mysql,linux,py,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,jenkins,githubactions,ansible,prometheus,grafana,elasticsearch,mongodb,postgres,mysql,redis,rabbitmq,kafka,linux,bash,py,nodejs" />
 </p>
+
+---
+
+### 🧠 Adaptability & Growth Mindset
+DevOps is an ever-evolving field. My strongest skill is not just the tools I know, but my **ability to master new ones at production speed**.
+> "I am a fast learner who can deep-dive into any complex stack—from a new service mesh to a niche cloud-native database—and have it architected, automated, and secured in a short delivery window."
 
 ---
 
