@@ -1,12 +1,38 @@
 # ☁️ Infrastructure & Automation Architect | Levent Öney
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/leventoney"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:leventtoney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+905442090439"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+# ☁️ Infrastructure & Automation Architect | Levent Öney
 
-`https://www.linkedin.com/in/leventoney/` | `leventtoney@gmail.com` | `+90 544 209 0439`
+<table align="left">
+  <tr align="center">
+    <td><b>LinkedIn</b></td>
+    <td><b>Email</b></td>
+    <td><b>Phone</b></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://www.linkedin.com/in/leventoney">
+        <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:leventtoney@gmail.com">
+        <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td><code>/in/leventoney</code></td>
+    <td><code>leventtoney@gmail.com</code></td>
+    <td><code>+90 544 209 0439</code></td>
+  </tr>
+</table>
+
+<br><br><br><br><br><br><br>
+
+---
 
 ---
 
